@@ -1,0 +1,21 @@
+{
+  "name": "budgetTracker",
+  "version": "1.0.0",
+  "description": "This is composed of multiple folders (models, public, routes, seeders). This is compose of mulitple files (index.js, workout.js, api.js, excersise.js/html, stats.js/html, style.css, workout-style.css ect...)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrennanPredmore/budgetTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrennanPredmore/budgetTracker/issues"
+  },
+  "homepage": "https://github.com/BrennanPredmore/budgetTracker#readme"
+}
