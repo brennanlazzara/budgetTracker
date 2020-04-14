@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 const compression = require("compression");
 
 const PORT = 3000;
-const mongoDBURL = process.env.MONGODB_URI || "mongodb://localhost/workout"
+const mongoDBURL = process.env.MONGODB_URI || "mongodb://localhost/budgetTrackerDB"
 const app = express();
 
 app.use(logger("dev"));
