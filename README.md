@@ -22,11 +22,11 @@ This is where the main website will be launched
 HTML
 CSS/BOOTSTRAP
 JAVASCRIPT
-JQUERY
 NODE.JS
 EXPRESS
 MONGODB
-MONGOOSE
+SERVICEWORKER
+INDEXEDDB
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
